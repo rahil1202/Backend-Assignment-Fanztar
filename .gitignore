@@ -1,0 +1,42 @@
+# Compiled output
+dist
+tmp
+out-tsc
+bazel-out
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Angular
+.angular/
+
+# Miscellaneous
+.sass-cache/
+*.js.map
+*.d.ts
+*.map
+*.js
+
+# Editor directories and files
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Docker
+Dockerfile
