@@ -1,6 +1,5 @@
 # Backend Fanztar
 
-This is a RESTful API for the Mobile Factory application, which allows customers to configure and order custom mobile phones. The API is built using Node.js, Express.js, and TypeScript.
 
 ## Features
 
