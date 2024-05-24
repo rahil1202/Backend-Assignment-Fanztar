@@ -9,9 +9,6 @@ node_modules
 npm-debug.log
 yarn-error.log
 
-# Angular
-.angular/
-
 # Miscellaneous
 .sass-cache/
 *.js.map
@@ -38,5 +35,6 @@ logs
 # Environment variables
 .env
 
-# Docker
-Dockerfile
+# pdf
+pdf
+backend_assignment.pdf
