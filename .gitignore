@@ -14,7 +14,7 @@ yarn-error.log
 *.js.map
 *.d.ts
 *.map
-*.js
+*.tsbuildinfo
 
 # Editor directories and files
 .vscode
